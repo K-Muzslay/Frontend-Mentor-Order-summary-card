@@ -123,6 +123,7 @@ a{
 }
 a:hover{
   color: #766cf1;
+  cursor: pointer;
 }
 #payment{
   display: flex;
@@ -156,7 +157,8 @@ button:hover{
   font-size: .9rem;
 }
 #payment p:hover{
-  color: var(--neut-dark-blue)
+  color: var(--neut-dark-blue);
+  cursor: pointer;
 }
 footer{
 margin-top: 1rem;  
