@@ -150,6 +150,7 @@ button{
 }
 button:hover{
   background-color: #766cf1;
+  cursor: pointer;
 
 }
 #payment p{
